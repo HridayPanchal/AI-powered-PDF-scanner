@@ -58,6 +58,3 @@ To run this project, you will need to add the following environment variables to
 ### 3
 ![Light Blue White Clean Grid Family Photo Collage (2)](https://github.com/user-attachments/assets/e7ec4868-e4db-4017-b9ff-d502935a539c)
 
-
-## 🚀 About Me
-[@Siddharth Mishra](https://github.com/Sid3503)
